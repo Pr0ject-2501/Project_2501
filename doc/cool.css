@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'Migra';
+    src: url('Migra-Extrabold.ttf') format('ttf');
+}
+
+div#first {
+
+position: fixed;}
+
+div#second {
+margin: 25px; }
+
+div#third {
+    margin: 25px; }
+
+div#fourth {
+margin: 25px; }
+
+div#fifth {
+    margin: 25px; }
+
+div#sixth {
+margin: 25px; }       
+        
+body, html {
+    width: fit-content;
+    height: fit-content;
+    margin: 2%;
+    font-family: 'Migra';
+    background-color: black;
+    
+    }
+    
+    body { cursor:url('curseur2.png'), auto;}
+
+    a {
+        position:sticky;
+        cursor:url('curseur2n.png'), pointer;
+       align-items: center;
+    }
+    
+    
+    
+    h1 {
+color: white;
+margin-top: 20px;
+    }
+
+    p {
+color: white;
+line-height: 1.5;
+position:inherit;
+    }
+
