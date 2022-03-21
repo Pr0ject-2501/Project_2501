@@ -4,7 +4,7 @@
 }
 
 div#first {
-
+user-select: none;
 position: fixed;}
 
 div#second {
